@@ -5,16 +5,16 @@ public class Student
     private String id;
     private String department;
     private double cgpa;
-    public void insert(String Name, String Id, String Department, double Cgpa)
+    public void student(String Name, String Id, String Department, double Cgpa)
     {
-        this.name = Name;
-        this.id = Id;
-        this.department = Department;
-        this.cgpa = Cgpa;
+        name = Name;
+        id = Id;
+        department = Department;
+        cgpa = Cgpa;
     }
     public void ShowInfo()
     {
-        Console.WriteLine("Name "+ name);
+        Console.WriteLine("Name " + name);
         Console.WriteLine("Id " + id);
         Console.WriteLine("Department " + department);
         Console.WriteLine("Cgpa " + cgpa);
