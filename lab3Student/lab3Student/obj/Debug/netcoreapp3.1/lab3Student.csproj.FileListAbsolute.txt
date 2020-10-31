@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.AssemblyInfo.cs
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.exe
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.deps.json
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.runtimeconfig.json
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.dll
+C:\Users\Asus\source\repos\lab3Student\lab3Student\bin\Debug\netcoreapp3.1\lab3Student.pdb
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.dll
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.pdb
+C:\Users\Asus\source\repos\lab3Student\lab3Student\obj\Debug\netcoreapp3.1\lab3Student.genruntimeconfig.cache
