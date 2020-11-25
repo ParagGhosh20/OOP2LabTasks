@@ -1,0 +1,4 @@
+C:\Users\Asus\source\repos\CalculatorFInal\CalculatorFInal\obj\Debug\netcoreapp3.1\labTask2FInal.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculatorFInal\CalculatorFInal\obj\Debug\netcoreapp3.1\labTask2FInal.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculatorFInal\CalculatorFInal\obj\Debug\netcoreapp3.1\labTask2FInal.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculatorFInal\CalculatorFInal\obj\Debug\netcoreapp3.1\labTask2FInal.csproj.CoreCompileInputs.cache
