@@ -36,5 +36,67 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        /*public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AppearReg(object sender, EventArgs e)
+        {
+            new Registration().Show();
+        }*/
+
+        
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Authinticate(object sender, EventArgs e)
+        {
+            string name = " ";
+            string password = " ";
+            string errMsg = " ";
+            bool hasError = false;
+            if(textBoxUsername.Text.Equals (" "))
+            {
+                errMsg += "User nme required \n";
+                hasError = true;
+            }
+            else
+            {
+                name = textBoxUsername.Text;
+            }
+            if (textboxPassword.Text.Equals(" "))
+            {
+                errMsg += "Password required \n";
+                hasError = true;
+            }
+            else
+            {
+                password = textboxPassword.Text;
+            }
+            if (!hasError)
+            {
+
+            }
+        }
     }
 }

@@ -74,14 +74,41 @@ namespace WindowsFormsApp1
 
         private void BtnClicked(object sender, EventArgs e)
         {
-            string name = textUserName.Text;
-            string mobile  = textMobileno.Text;
-            string oname = textOrgName.Text;
-            string oAddress = textOrgAdd.Text;
+            string name = textUaerName.Text;
+            string lastAddress = textLastAdd.Text;
+            string email = textUaerName.Text;
+            string reTypeEmail = textLastAdd.Text;
+            string password = textPassword.Text;
+            string reTypePassword = textRtPassword.Text;
+            string securityAnswe = textAnswer.Text;
+            string address = textAddress.Text;
+            string city = textCity.Text;
+            string mobile = textMobileNo.Text;
+            string phone = textPhoneNo.Text;
+            string mobile2 = textMobile2.Text;
+            string gender = comboBoxGender.SelectedItem.ToString();
+            string selectedQuestion = comboxSq.SelectedItem.ToString();
+            string zipCode = comBoxZip.SelectedItem.ToString();
+
 
             
 
-            string output = string.Format("Name:{0} \n Mobile:{1} \n OrgName:{0} \n OrgAddress:{0}", name, mobile, oname, oAddress);
+            string output = string.Format("Name:{0} " +
+                "\n LastAddress:{1} " +
+                "\n Email:{2} " +
+                "\n reTypeEmail:{3} " +
+                "\n password:{4}" +
+                "\n reTypePassword:{5}" +
+                "\n securityAnswe:{6}" +
+                "\n address:{7}" +
+                " \n city:{8}" +
+                " \n mobile:{9}" +
+                " \n mobile:{10}" +
+                " \n phone:{11} " +
+                "\n mobile2:{12} " +
+                " \n gender : {13} " +
+                "\n selectedQuestion : {14} " +
+                "\n zipCode : {15}", name ,lastAddress ,email ,reTypeEmail ,password, reTypePassword, securityAnswe ,address , city, mobile ,phone ,mobile2, gender, selectedQuestion, zipCode);
             
 
            rTOutput.Text = output;
